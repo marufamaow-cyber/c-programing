@@ -1,2 +1,2 @@
-# c-programing
+# c-programming
 My C programming practice and projects
